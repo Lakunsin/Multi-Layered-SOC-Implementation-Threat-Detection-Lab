@@ -4,7 +4,7 @@
 Entry-Level Cybersecurity Analyst  
 May 2026  
 
-### Tech Stack: Wazuh (SIEM), Suricata (IDS), VirusTotal API, Ubuntu (Endpoint), Kali Linux (Manager), Diamorphine
+Tech Stack: Wazuh (SIEM), Suricata (IDS), VirusTotal API, Ubuntu (Endpoint), Kali Linux (Manager), Diamorphine
 
 ## 1. Executive Summary
 This project demonstrates the deployment of a functional Security Operations Center (SOC) designed to detect host-based, network-based, identity-based and file-based threats. By integrating Wazuh, Suricata, and VirusTotal, I created a unified visibility pipeline that identifies kernel-level obfuscation (rootkits), malicious network patterns, unauthorized access attempts, and automated malware remediation within a virtualized lab environment.
