@@ -19,7 +19,6 @@ The lab environment was built using a private virtual network to simulate an ent
 
 ## 3. Identity & Access Monitoring: Syslog Analysis
 I established baseline visibility for system access.  
-•	Implementation: Configured the SOC_Lab_Endpoint agent to monitor /var/log/auth.log and ingest syslog data.  
 •	Attack Simulation: Performed multiple failed login attempts on the SOC_Lab_Endpoint agent.  
 •	Detection Result: The Wazuh Dashboard successfully generated "User authentication failure" alerts Rule level 3 and Rule.id 2501. This provided real-time visibility into potential brute-force attacks.  
 
