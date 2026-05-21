@@ -1,6 +1,6 @@
 # Multi-Layered SOC Lab: Threat Detection & Automated Malware Remediation
 
-**By:** Olakunle Odesanya  
+**By:** Lakunsin  
 Entry-Level Cybersecurity Analyst  
 May 2026  
 
